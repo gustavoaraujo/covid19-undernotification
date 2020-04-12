@@ -1,0 +1,11 @@
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Coronavirus-Predict.deps.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Coronavirus-Predict.runtimeconfig.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Coronavirus-Predict.runtimeconfig.dev.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Coronavirus-Predict.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Coronavirus-Predict.pdb
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Coronavirus-Predict.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Coronavirus-Predict.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Coronavirus-Predict.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Coronavirus-Predict.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Coronavirus-Predict.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Coronavirus-Predict.pdb

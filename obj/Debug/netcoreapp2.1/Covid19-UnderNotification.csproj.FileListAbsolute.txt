@@ -1,0 +1,11 @@
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Covid19-UnderNotification.deps.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Covid19-UnderNotification.runtimeconfig.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Covid19-UnderNotification.runtimeconfig.dev.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Covid19-UnderNotification.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\bin\Debug\netcoreapp2.1\Covid19-UnderNotification.pdb
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Covid19-UnderNotification.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Covid19-UnderNotification.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Covid19-UnderNotification.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Covid19-UnderNotification.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Covid19-UnderNotification.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\Coronavirus-Predict\obj\Debug\netcoreapp2.1\Covid19-UnderNotification.pdb
